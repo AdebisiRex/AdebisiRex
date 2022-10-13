@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdebisiRex
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m however an advanced level MERN Stack developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? I am 100% available on whatsapp @+2349095260292
 
